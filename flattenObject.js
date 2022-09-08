@@ -4,6 +4,16 @@ let obj = {
     address:{
         city:"Delhi",
         pin:110053
+    },
+    permanentAddress:{
+        state: "Bihar",
+        pincode : 854318,
+        city:{
+            village: "Tiraskund",
+            Ward_No :10,
+            Police_Station : "Forbesganj"
+        }
+
     }
 }
 
