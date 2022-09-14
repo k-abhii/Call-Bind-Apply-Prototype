@@ -37,3 +37,10 @@ console.log(cloneObj);
 
 
 */
+
+
+/*
+
+https://flaviocopes.com/how-to-clone-javascript-object/
+
+*/
